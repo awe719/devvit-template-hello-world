@@ -1,4 +1,4 @@
-## Devvit Hello World Starter
+https://github.com/reddit## Devvit Hello World Starter
 
 A starter to build web applications on Reddit's developer platform
 
